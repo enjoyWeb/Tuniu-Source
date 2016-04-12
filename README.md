@@ -1,6 +1,6 @@
 # Tuniu-Source
 
-《[防途牛旅行](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=444&extra=page%3D1)》
+《[仿途牛旅行](http://community.apicloud.com/bbs/forum.php?mod=viewthread&tid=444&extra=page%3D1)》
 
 作者：北京的雪
 
